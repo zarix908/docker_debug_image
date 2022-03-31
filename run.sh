@@ -1,0 +1,1 @@
+docker run -it --rm --name debian_debug $@ debian_debug
